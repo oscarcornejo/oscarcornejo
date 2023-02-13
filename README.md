@@ -9,8 +9,8 @@ const oscar = {
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
-            js: ["ReactJs", "Redux", "Angular", "Vuejs", "Jquery"],
-            css: ["Material UI", "Ant Design", "Bootstrap", "Bulma", "Tailwind CSS", "Styled Components"]
+            js: ["ReactJs", "NextJs","Angular", "Vuejs", "NX"],
+            css: ["Sass", "Material UI", "Ant Design", "Bootstrap", "Bulma", "Tailwind CSS", "Styled Components", "CSS ❤"]
         },
         backEnd: {
             js: ["NodeJs", "Express"],
@@ -19,7 +19,7 @@ const oscar = {
         databases: ["MongoDb", "MySql"],
         misc: ["Firebase", "Socket.IO", "Git", "Github", "GitLab", "Bitbucket"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "SSR", "Clean Architecture"],
     currentFocus: "Honing my skills in backend",
     funFact: "Javascript saved my life",
     communities: {
